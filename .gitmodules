@@ -1,3 +1,18 @@
 [submodule "order-service"]
 	path = order-service
 	url = https://github.com/tayalyz/order-service
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/tayalyz/api-gateway
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/tayalyz/notification-service
+[submodule "inventory-service"]
+	path = inventory-service
+	url = https://github.com/tayalyz/inventory-service
+[submodule "product-service"]
+	path = product-service
+	url = https://github.com/tayalyz/product-service
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/tayalyz/frontend
